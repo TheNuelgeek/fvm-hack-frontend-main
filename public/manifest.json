@@ -1,0 +1,23 @@
+{
+  "short_name": "Vertex",
+  "name": "vf",
+  "description": "swap and earn reward on staking",
+  "homepage_url": "",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#493F3B",
+  "background_color": "#181818",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "type": "image/x-icon",
+      "sizes": "16x16"
+    },
+    {
+      "src": "logo.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    }
+  ]
+}
